@@ -1,1 +1,1 @@
-# This Repository is  for Data Science Class  in CNU
+# This repository is  for Data science class  in CNU
