@@ -1,8 +1,8 @@
 # Data science class  in CNU
 
-##Mini Project  
+## Mini Project  
 
-##수입화물 우범도 예측
+## 수입화물 우범도 예측
 
  1. 주제
 
