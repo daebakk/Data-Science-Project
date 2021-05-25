@@ -19,7 +19,7 @@
 
 3. 결과
 
-baseline model
+Baseline model
 
 f1-score : 0.42
 
