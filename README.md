@@ -18,11 +18,12 @@
 
 
 3. 결과
+baseline model
+f1-score : 0.42
 
+
+Our model
 ||precision|recall|f1-score|
 |------|---|---|-------|
 |정상|0.92|0.72|0.81|
 |우범|0.46|0.79|0.58|
-
-<baseline model>
-f1-score : 0.41688457228240566
