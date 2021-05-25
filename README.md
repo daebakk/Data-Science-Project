@@ -20,6 +20,7 @@
 3. 결과
 
 
-|precision|recall|f1-score|
+||precision|recall|f1-score|
+|------|---|---|-------|
 |정상|0.92|0.72|0.81|
 |우범|0.46|0.79|0.58|
