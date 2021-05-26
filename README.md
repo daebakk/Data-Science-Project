@@ -23,7 +23,6 @@
 
 - data sample
 
-<img src="./image/sample1.png" ><img src="./image/sample2.png">
 
 4. 결과
 
