@@ -4,7 +4,7 @@
 
 ## 2021년 관세청 - 충남대학교 수입화물 우범도 AI 경진대회(21.5.3 ~ 21.5.23 )
 
- 1. 주제
+1. 주제
 
  AI를 활용하여 우리나라로 수입되는 화물의 우범도를 예측하는 모델 개발
 
@@ -23,6 +23,8 @@
 -  총 24개의 feature로 구성 21개는 독립변수 3개는 종속변수(검사결과코드 , 우범, 핵심적발)
 
 - Raw Data sample
+
+
 <img src="./image/data1.png" width="400" height="200" ><img src="./image/data2.png" width="400" height="200">
 
 4. 결과
@@ -45,7 +47,9 @@ Our model
 
 - 크게 범주형과 수치형 변수로 나누어서 전처리
 
-5.1 범주형 변수
+
+  5.1 범주형 변수
+
 - 전처리를 진행 한후 최종적으로 categorical data로 변환 후 one-hot encoding 적용
 - 아래는 각 주요 세부 항목 전처리
 
@@ -55,7 +59,7 @@ Our model
 -> 10단위 중 앞 2자리를 추출해서 HS2단위로 feature creation.
 
 
-5.2 수치형 변수
+  5.2 수치형 변수
 
 - 관세율, 과세가격금액, 관세율 모두 histogram을 그리면 right skew형 데이터이다.
 
