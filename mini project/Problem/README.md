@@ -23,7 +23,7 @@
 
 - data sample
 
-<img src="./image/sample1.png"  width="600" height="100"><img src="./image/sample2.png"  width="600" height="100">
+<img src="./Mini project/Problem/image/sample1.png"  width="600" height="100"><img src="./Mini project/Problem/image/sample2.png"  width="600" height="100">
 
 4. 결과
 
