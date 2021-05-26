@@ -21,7 +21,9 @@
 
 - 1월 ~ 9월까지의  수입 화물 데이터 중 총 26개의 feature로 구성 23개는 독립변수 3개는 종속변수(검사결과코드 , 우범, 핵심적발)
 
-- data sample
+- Raw Data sample
+
+<img src="./image/sample1.png" width="600" ><img src="./image/sample2.png" width="300">
 
 
 4. 결과
