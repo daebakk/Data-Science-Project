@@ -23,7 +23,7 @@
 
 - Raw Data sample
 
-<img src="./image/img1.png" width="500" ><img src="./image/img2.png" width="200">
+<img src="./image/sample1.png" width="400" ><img src="./image/sample2.png" width="400">
 
 
 4. 결과
