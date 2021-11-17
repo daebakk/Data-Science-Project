@@ -1,9 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaebakk%2FData-Science-Project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-# Data science class  in CNU
 
-## Mini Project  
-
-## 2021년 관세청 - 충남대학교 수입화물 우범도 AI 경진대회(21.5.3 ~ 21.5.23 )
+## 2021년 관세청 - 수입화물 우범도 AI 경진대회(21.5.3 ~ 21.5.23 )
 
 1. 주제
 
